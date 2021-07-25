@@ -2,23 +2,11 @@
 Hospital Management System using MySQL, Php and Bootstrap
 
 
-
-
-## Need to work on:
-
-1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
-2. User should not be allowed to register if he/she tries to provide the already registered email ID.
-3. The password should be encrypted and the password field shouldn't be displayed in the admin panel.
-4. Implementation of pagination for all the list view across the application.
-5. Bug fix - Bill payment receipt contains multiple record if the patient has associated with the same doctor multiple times.
-6. Addition of more fields in the prescription statement to make it more specific one.
-7. Addition of more details on payment - such as date of the payment made, amount paid, etc.
-8. Implementation of export button in admin module to export all details to an excel sheet.
-
 ## Prerequisites
 1. Install XAMPP web server
 2. Any Editor (Preferably VS Code or Sublime Text)
 3. Any web browser with latest version
+
 
 ## Languages and Technologies used
 1. HTML5/CSS3
@@ -198,6 +186,18 @@ This module allows admin to perform five major operations:
 
 ![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)
   
+
+## Need to work on:
+
+1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
+2. User should not be allowed to register if he/she tries to provide the already registered email ID.
+3. The password should be encrypted and the password field shouldn't be displayed in the admin panel.
+4. Implementation of pagination for all the list view across the application.
+5. Bug fix - Bill payment receipt contains multiple record if the patient has associated with the same doctor multiple times.
+6. Addition of more fields in the prescription statement to make it more specific one.
+7. Addition of more details on payment - such as date of the payment made, amount paid, etc.
+8. Implementation of export button in admin module to export all details to an excel sheet.
+
 
 
 
